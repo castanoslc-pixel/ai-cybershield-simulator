@@ -1,0 +1,5 @@
+{
+  "name": "CyberShield Simulator",
+  "description": "A high-fidelity cybersecurity modeling and simulation platform for personal devices, networks, and wearables. Analyze attack vectors, monitor real-time response metrics, and receive AI-driven mitigation strategies.",
+  "requestFramePermissions": []
+}
